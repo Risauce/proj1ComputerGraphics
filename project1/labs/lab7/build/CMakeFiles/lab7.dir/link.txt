@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/lab7.dir/main.cpp.o CMakeFiles/lab7.dir/home/yinyalan/Downloads/proj1ComputerGraphics/project1/labs/deps/glad/src/glad.c.o  -o lab7 glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
